@@ -30,6 +30,9 @@ models/
 mlruns/
 wandb/
 logs/
+regression_logs/
+*.tfevents*
+outputs/
 
 # Env
 .env
